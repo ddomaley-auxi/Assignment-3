@@ -1,3 +1,5 @@
-Assignment 3 C ++ functions 
 Gideon Tsiatey Domaley 
 0124017D
+HND EEE L200
+INTRODUCTION TO COMPUTER TECHNOLOGY 
+EEE 227
